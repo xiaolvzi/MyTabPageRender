@@ -1,0 +1,11 @@
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\bin\Debug\netstandard2.0\MyTabPageRender.deps.json
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\bin\Debug\netstandard2.0\MyTabPageRender.dll
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\bin\Debug\netstandard2.0\MyTabPageRender.pdb
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\obj\Debug\netstandard2.0\MyTabPageRender.csproj.CoreCompileInputs.cache
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\obj\Debug\netstandard2.0\MyTabPageRender.App.xaml.g.cs
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\obj\Debug\netstandard2.0\MyTabPageRender.MainPage.xaml.g.cs
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\obj\Debug\netstandard2.0\MyTabPageRender.TabbedPage1.xaml.g.cs
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\obj\Debug\netstandard2.0\MyTabPageRender.AssemblyInfoInputs.cache
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\obj\Debug\netstandard2.0\MyTabPageRender.AssemblyInfo.cs
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\obj\Debug\netstandard2.0\MyTabPageRender.dll
+C:\VS_WorkSpace\MyTabPageRender\MyTabPageRender\MyTabPageRender\obj\Debug\netstandard2.0\MyTabPageRender.pdb

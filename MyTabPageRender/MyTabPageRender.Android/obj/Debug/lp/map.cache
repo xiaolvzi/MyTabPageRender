@@ -1,6 +1,6 @@
+FormsViewGroup
 MyTabPageRender
 System.Runtime
-FormsViewGroup
 Xamarin.Android.Support.Animated.Vector.Drawable
 Xamarin.Android.Support.Annotations
 Xamarin.Android.Support.Compat
@@ -21,3 +21,6 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+netstandard
+System.ComponentModel
+System.Reflection.Extensions

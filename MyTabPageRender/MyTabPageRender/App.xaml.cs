@@ -13,7 +13,7 @@ namespace MyTabPageRender
 		{
 			InitializeComponent();
 
-			MainPage = new MyTabPageRender.MainPage();
+			MainPage = new NavigationPage( new MyTabPageRender.MainPage());
 		}
 
 		protected override void OnStart ()

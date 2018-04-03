@@ -12,6 +12,7 @@ namespace MyTabPageRender
 		public MainPage()
 		{
 			InitializeComponent();
+            Navigation.PushAsync(new TabbedPage1());
 		}
 	}
 }
